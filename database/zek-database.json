@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T09:22:11.192Z",
-  "bots": {}
+  "updatedAt": "2026-09-04T09:26:17.386Z",
+  "bots": {
+    "6285143294291": {
+      "number": "6285143294291",
+      "role": "developer",
+      "status": "active",
+      "note": "",
+      "createdAt": "2026-09-04T09:26:17.386Z",
+      "updatedAt": "2026-09-04T09:26:17.386Z"
+    }
+  }
 }
