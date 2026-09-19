@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T12:17:21.152Z",
+  "updatedAt": "2026-09-19T15:24:14.542Z",
   "bots": {
+    "628134044": {
+      "number": "628134044",
+      "role": "reseller",
+      "status": "active",
+      "note": "",
+      "createdAt": "2026-09-19T15:24:14.542Z",
+      "updatedAt": "2026-09-19T15:24:14.542Z"
+    },
     "6285143294291": {
       "number": "6285143294291",
       "role": "developer",
